@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Raleway-Regular';
+  src: url("../fonts/Raleway-Regular.ttf");
+}
+@font-face {
+  font-family: 'Raleway-Bold';
+  src: url("../fonts/Raleway-Bold.ttf");
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url("../fonts/Roboto-Regular.ttf");
+}
+
+.jumbotron {
+  background: url("../img/jumbotron.jpg") no-repeat center center;
+  background-size: cover;
+  height: 700px;
+
+}
+
+.paul h1 {
+  font-family: 'Raleway-Bold', serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 200px;
+  color: #fff;
+  letter-spacing: 6px;
+  font-size: 50px;
+  width: 395px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.paul p {
+  text-align: center;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 16px;
+
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
+
+.menu-button {
+  margin-left: 505px;
+  height: 40px;
+  width: 40px;
+}
+
+.btn {
+ background-color: #ff2b4a;
+ color: #fff;
+ border-radius: 0;
+ padding-left: 40px;
+ padding-right: 40px;
+}
